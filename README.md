@@ -1,9 +1,17 @@
 # Diabetes-Analysis-and-Prediction
 Carried out analysis and prediction of diabetes using the dataset which is originally from the National Institute of Diabetes and Digestive and Kidney Diseases.
 
+Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy.
+
+Early Signs of Diabetes
+
+* Hunger and fatigue. Your body converts the food you eat into glucose that your cells use for energy*
+* Peeing more often and being thirstier
+* Dry mouth and itchy skin
+* Blurred vision
 
 The dataset used in this pipeline is the Pima Indian Diabetes.
-
+Predict the onset of diabetes based on diagnostic measures
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 
 The dataset consists of the following columns:
