@@ -1,5 +1,10 @@
 # Diabetes-Analysis-and-Prediction
-Carried out analysis and prediction of diabetes using the dataset which is originally from the National Institute of Diabetes and Digestive and Kidney Diseases.
+
+The World Health Organisation stated that about 422 million people worldwide have diabetes, the majority living in low-and middle-income countries, and 1.5 million deaths are directly attributed to diabetes each year.
+
+This implies that the fight against diabetes should constitute a global effort.
+
+I carried out analysis and prediction of diabetes using the dataset which is originally from the National Institute of Diabetes and Digestive and Kidney Diseases.
 
 Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy.
 
