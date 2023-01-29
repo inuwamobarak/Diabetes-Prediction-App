@@ -1,4 +1,4 @@
-# Diabetes-Analysis-and-Prediction
+# Diabetes Analysis and Prediction
 
 I carried out analysis and built a predictive model for diabetes diagnoses using the dataset which is originally from the National Institute of Diabetes and Digestive and Kidney Diseases.
 ## Problem
@@ -12,7 +12,7 @@ Diabetes occurs when blood glucose or blood sugar decomes excess in the body. In
 
 Diabetes. In Wikipedia. https://en.wikipedia.org/wiki/Diabetes
 ## Approach
-Predicted the onset of diabetes based on diagnostic measures.
+Predicted the onset of diabetes based on diagnostic measures. Made use of Machine learning models and Exploratory Data analysis.
 ### Dataset
 The dataset used in this pipeline is the Pima Indian Diabetes.
 
