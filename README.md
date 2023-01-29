@@ -1,6 +1,7 @@
 # Diabetes-Analysis-and-Prediction
 
 https://www.who.int/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-white.svg
+
 The World Health Organisation stated that about 422 million people worldwide have diabetes, the majority living in low-and middle-income countries, and 1.5 million deaths are directly attributed to diabetes each year.
 
 This implies that the fight against diabetes should constitute a global effort.
