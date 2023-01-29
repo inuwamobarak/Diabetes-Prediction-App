@@ -4,9 +4,13 @@ I carried out analysis and built a predictive model for diabetes diagnoses using
 ## Problem
 ![whologo](https://user-images.githubusercontent.com/65142149/215301130-c6d2eb94-9307-4d26-af67-96d874e9f66e.png)
 ## 
-The World Health Organisation stated that about 422 million people worldwide have diabetes, the majority living in low-and middle-income countries, and 1.5 million deaths are directly attributed to diabetes each year. This implies that the fight against diabetes should constitute a global effort.
+The World Health Organisation stated that about 422 million people worldwide have diabetes, the majority living in low-and middle-income countries, and 1.5 million deaths are directly attributed to diabetes each year. This implies that the fight against diabetes should constitute a global effort. See https://www.who.int/health-topics/diabetes#tab=tab_1
 ### Cause of Diabetes
 Diabetes occurs when blood glucose or blood sugar decomes excess in the body. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy.
+## 
+![470px-Main_symptoms_of_diabetes svg](https://user-images.githubusercontent.com/65142149/215301518-9a2889a0-e2ef-46db-94db-3e47d3e49257.png)
+
+Diabetes. In Wikipedia. https://en.wikipedia.org/wiki/Diabetes
 ## Approach
 Predicted the onset of diabetes based on diagnostic measures.
 ### Dataset
