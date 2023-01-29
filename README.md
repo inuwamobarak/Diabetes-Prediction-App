@@ -1,10 +1,11 @@
 # Diabetes-Analysis-and-Prediction
 
 I carried out analysis and built a predictive model for diabetes diagnoses using the dataset which is originally from the National Institute of Diabetes and Digestive and Kidney Diseases.
+## Problem
 ![whologo](https://user-images.githubusercontent.com/65142149/215301130-c6d2eb94-9307-4d26-af67-96d874e9f66e.png)
 
 The World Health Organisation stated that about 422 million people worldwide have diabetes, the majority living in low-and middle-income countries, and 1.5 million deaths are directly attributed to diabetes each year. This implies that the fight against diabetes should constitute a global effort.
-## Cause of Diabetes
+### Cause of Diabetes
 Diabetes occurs when blood glucose or blood sugar decomes excess in the body. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy.
 ## Approach
 Predicted the onset of diabetes based on diagnostic measures.
@@ -25,5 +26,7 @@ The datasets consist of several medical predictor (independent) variables and on
 * DiabetesPedigreeFunction: Diabetes pedigree function
 * Age: Age (years)
 * Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0
+
+Dataset Link: [https://www.kaggle.com/code/javagarm/a-complete-ml-pipeline-tutorial-acu-86/data](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 **credit:** Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
